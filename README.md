@@ -1,1 +1,1 @@
-Yassin: These folders contain the rest of the code used and all the figures used in the project. Thought id add them FYI.
+This project aims to tackle the spectral analysis and filter design of a sample of a song (the singer is fayrouz) that has been interfered with some arbitrary sinusoid.
